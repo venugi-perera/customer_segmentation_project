@@ -1,0 +1,2 @@
+# customer_segmentation_project
+customer_segmentation_project
